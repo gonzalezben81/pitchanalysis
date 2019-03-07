@@ -7,6 +7,7 @@ output: html_document
 
 This application allows the user to compare the pitches of an individual baseball pitcher. The pitches are visualized utilizing a ggplot2 plot and color coded with one plot for speed and the other plot for type of pitch. This allows users to determine where and when what pitches were thrown. 
 
+<<<<<<< HEAD
 
 ### Pitch Data
 
@@ -50,3 +51,6 @@ This application allows the user to compare the pitches of an individual basebal
 
 
 ---
+=======
+![](/pitchanalysis/www/baseball_pitch_speed.png)
+>>>>>>> fb84847e5fbd0a2b12c293d182e5698653c86fd0
