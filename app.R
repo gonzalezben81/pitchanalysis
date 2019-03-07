@@ -15,14 +15,9 @@ library(SnowballC)
 library(rvest)
 library(dplyr)
 library(reshape2)
-library(tidytext)
-library(syuzhet)
 library(pander)
 library(xlsx)
 library(ggplot2)
-library(RWeka)
-library(RWekajars)
-library(partykit)
 library(DT)
 library(shinydashboard)
 
@@ -31,7 +26,7 @@ kershaw <- read.csv("kershaw.csv")
 shoemaker <- read.csv("shoemaker.csv")
 # Define UI for application that draws a histogram
 ui <- fluidPage(
-  tags$head(includeScript("www/google-analytics.js")),
+  # tags$head(includeScript("www/google-analytics.js")),
   pageWithSidebar(
   headerPanel('Baseball Pitch Analysis'),
    
