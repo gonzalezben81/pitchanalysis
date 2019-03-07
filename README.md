@@ -16,7 +16,7 @@ This application allows the user to compare the pitches of an individual basebal
 
 ### Pitch Type
 
-+ The pitch type plot allows an user to visualize the type of pitches that are thrown. The rectangle is the catcher's view an is where an umpire may call a strike or a ball. 
++ The pitch type plot allows an user to visualize the type of pitches that are thrown. The rectangle is the catcher's view and is where an umpire may call a strike or a ball. 
 
 ![](./www/baseball_pitch_type.png)
 
@@ -26,7 +26,7 @@ This application allows the user to compare the pitches of an individual basebal
 
 ### Pitch Speed
 
-+ The pitch speed plot allows an user to visualize the speed of each pitch. The rectangle is the catcher's view an is where an umpire may call a strike or a ball. 
++ The pitch speed plot allows an user to visualize the speed of each pitch. The rectangle is the catcher's view and is where an umpire may call a strike or a ball. 
 
 ![](./www/baseball_pitch_speed.png)
 
